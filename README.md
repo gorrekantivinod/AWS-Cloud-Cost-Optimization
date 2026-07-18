@@ -83,7 +83,6 @@ Before deploying the Lambda function, ensure you have:
 AWS-Stale-EBS-Snapshot-Cleanup/
 │
 ├── lambda_function.py
-├── requirements.txt
 └── README.md
 ```
 
